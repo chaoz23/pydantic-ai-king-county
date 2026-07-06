@@ -30,6 +30,12 @@ dependencies = [
     "anyio>=4.0",
 ]
 
+[project.optional-dependencies]
+test = ["pytest>=7"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
 [project.urls]
 Homepage = "https://github.com/chaoz23/pydantic-ai-king-county"
 Repository = "https://github.com/chaoz23/pydantic-ai-king-county"
