@@ -3,3 +3,5 @@ __pycache__/
 *.egg-info/
 .eggs/
 dist/
+.venv/
+__pycache__/
