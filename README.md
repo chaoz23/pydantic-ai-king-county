@@ -83,4 +83,4 @@ Also available as standalone CLI tools with `--pipe`, `--schema`, and `tool.json
 
 ## License
 
-MIT
+[MIT](LICENSE)
